@@ -32,6 +32,7 @@ import { ContactdetailsComponent } from './checkout/contactdetails/contactdetail
 import { GoogleMapsModule } from '@angular/google-maps';
 import { OrdertrackingComponent } from './ordertracking/ordertracking.component';
 import { StoremanagementComponent } from './storemanagement/storemanagement.component';
+import { NavbarComponent } from './navbar/navbar.component';
 // import { AuthService } from './auth.service';
 
 @NgModule({
@@ -61,6 +62,7 @@ import { StoremanagementComponent } from './storemanagement/storemanagement.comp
     ContactdetailsComponent,
     OrdertrackingComponent,
     StoremanagementComponent,
+    NavbarComponent,
   ],
   imports: [
     BrowserModule,
