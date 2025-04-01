@@ -27,6 +27,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 =======
+
+## Demo Video
+
+You can see the demo video on LinkedIn [https://www.linkedin.com/feed/update/urn:li:activity:7205215045784391680/] .
+=======
+
 # SweetSpot
 SweetSpot-Delevering Delight At Your Doorstep a sweet store website project using Angular17
 >>>>>>> origin/main
